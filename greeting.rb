@@ -3,3 +3,8 @@ def greeting
 end
 
 greeting
+def stylish_chef
+  best_hairstyle = "Guy Fieri"
+  return "Martha Stewart"
+  "Guy Fieri"
+end
